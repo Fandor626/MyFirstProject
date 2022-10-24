@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="myFirstProject">My first project</string>
+    <string name="change_text">change text</string>
+</resources>
